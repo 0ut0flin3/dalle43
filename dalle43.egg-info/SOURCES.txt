@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+dalle43/__init__.py
+dalle43/dalle43.py
+dalle43.egg-info/PKG-INFO
+dalle43.egg-info/SOURCES.txt
+dalle43.egg-info/dependency_links.txt
+dalle43.egg-info/requires.txt
+dalle43.egg-info/top_level.txt

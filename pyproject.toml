@@ -1,0 +1,28 @@
+[build-system]
+requires      = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dalle43"
+version = "0.0.0.2"
+description = "Use OpenAI's DALL-E for free, unlimited and without politically correct restrictions"
+readme = "README.md"
+authors = [{ name = "0ut0flin3", email = "0ut0flin3@protonmail.com" }]
+license = { file = "LICENSE.md" }
+classifiers = [
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["DALL-E","openai","gpt-3"]
+requires-python = ">=3"
+
+
+
+dependencies = ["PyVirtualDisplay==3.0","selenium==4.8.2"]
+
+
+[project.urls]
+Homepage = "https://github.com/0ut0flin3/dalle43"
+
+
