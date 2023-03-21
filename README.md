@@ -1,4 +1,7 @@
 # DALL-E FOR FREE!
+
+## P.S : you may need to `pip install -U webdriver-manager`
+
 Use OpenAI's DALL-E for free
  
 With dalle43 you can use  OpenAi's DALL-E for free
