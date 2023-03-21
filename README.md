@@ -13,7 +13,7 @@ To use dalle43 follow the instructions below:
     - Arch-based (ArchLinux, Manjaro Linux, etc.) - `sudo pacman -S xorg-server-xvfb`
     - RHEL and based (CentOS, Fedora, etc.) - `sudo yum install xorg-x11-server-Xvfb`
 
-    2) install dalle43 : `pip install -U dalle43`
+2) install dalle43 : `pip install -U dalle43`
 
 You can now generate images with DALL-E for free by running `python3 -m dalle43.dalle43` and entering the description of the image you want to generate. The images will be saved in the `/home/USER/Pictures/generated_images` folder
 
