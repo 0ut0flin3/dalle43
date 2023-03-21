@@ -1,7 +1,7 @@
 # DALL-E FOR FREE!
-Use OpenAI's DALL-E for free, unlimited and without politically correct restrictions
+Use OpenAI's DALL-E for free
  
-With dalle43 you can use  OpenAi's DALL-E for free, this means that **you will not need any api-key to generate the images** but you can generate as many as you want, for free, and without censorship
+With dalle43 you can use  OpenAi's DALL-E for free
 
 dalle43 is only available for Linux systems.
 
