@@ -1,6 +1,6 @@
 import setuptools
 setuptools.setup(name='dalle43',
-    version='0.0.0.2',
+    version='0.0.0.3',
     author='0ut0flin3',
     description='Use OpenAI DALL-E for free, unlimited and without politically correct restrictions',
     packages=setuptools.find_packages(),
@@ -11,6 +11,6 @@ setuptools.setup(name='dalle43',
         'Operating System :: OS Independent',
         
                 ],
-    install_requires=['PyVirtualDisplay==3.0','selenium==4.8.2'],
+    install_requires=['selenium==4.8.2'],
     python_requires='>=3'
         )

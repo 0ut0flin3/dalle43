@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dalle43"
-version = "0.0.0.2"
+version = "0.0.0.3"
 description = "Use OpenAI's DALL-E for free, unlimited and without politically correct restrictions"
 readme = "README.md"
 authors = [{ name = "0ut0flin3", email = "0ut0flin3@protonmail.com" }]
@@ -19,7 +19,7 @@ requires-python = ">=3"
 
 
 
-dependencies = ["PyVirtualDisplay==3.0","selenium==4.8.2"]
+dependencies = ["selenium==4.8.2"]
 
 
 [project.urls]

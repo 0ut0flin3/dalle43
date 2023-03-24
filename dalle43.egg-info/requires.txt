@@ -1,4 +1,1 @@
-PyVirtualDisplay==3.0
 selenium==4.8.2
-requests==2.28.2
-webdriver-manager==3.8.5

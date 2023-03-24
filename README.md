@@ -4,16 +4,9 @@ Use OpenAI's DALL-E for free
  
 With dalle43 you can use  OpenAi's DALL-E for free
 
-dalle43 is only available for Linux systems.
+**UPDATE: dalle43 is now available for both Windows and Unix.**
 
-To use dalle43 follow the instructions below:
-
-1) install xvfb (mandatory):
-    - Debian-based (Ubuntu, PopOS, Linux Mint, etc.) - `sudo apt-get install xvfb`
-    - Arch-based (ArchLinux, Manjaro Linux, etc.) - `sudo pacman -S xorg-server-xvfb`
-    - RHEL and based (CentOS, Fedora, etc.) - `sudo yum install xorg-x11-server-Xvfb`
-
-2) install dalle43 : `pip install -U dalle43`
+To use dalle43 install `dalle43` Python module using pip : `pip install -U dalle43`
 
 You can now generate images with DALL-E for free by running `python3 -m dalle43.dalle43` and entering the description of the image you want to generate. The images will be saved in the `/home/USER/Pictures/generated_images` folder
 
