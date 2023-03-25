@@ -1,12 +1,8 @@
-# DALL-E FOR FREE!
+# DALL-E FOR FREE :heart:
 
-Use OpenAI's DALL-E for free
  
-With dalle43 you can use  OpenAi's DALL-E for free
 
-**UPDATE: dalle43 is now available for both Windows and Unix.**
-
-# HOW TO USE
+## HOW TO USE
 
 1. INSTALL DALLE43: `pip install -U dalle43`
 
