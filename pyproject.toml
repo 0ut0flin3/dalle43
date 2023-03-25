@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dalle43"
-version = "0.0.0.3"
+version = "0.0.0.5"
 description = "Use OpenAI's DALL-E for free, unlimited and without politically correct restrictions"
 readme = "README.md"
 authors = [{ name = "0ut0flin3", email = "0ut0flin3@protonmail.com" }]

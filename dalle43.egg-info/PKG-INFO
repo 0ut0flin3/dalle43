@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: dalle43
-Version: 0.0.0.3
+Version: 0.0.0.5
 Summary: Use OpenAI's DALL-E for free, unlimited and without politically correct restrictions
 Author: 0ut0flin3
 Author-email: 0ut0flin3 <0ut0flin3@protonmail.com>
@@ -224,11 +224,20 @@ With dalle43 you can use  OpenAi's DALL-E for free
 
 **UPDATE: dalle43 is now available for both Windows and Unix.**
 
-To use dalle43 install `dalle43` Python module using pip : `pip install -U dalle43`
+# HOW TO USE
 
-You can now generate images with DALL-E for free by running `python3 -m dalle43.dalle43` and entering the description of the image you want to generate. The images will be saved in the `/home/USER/Pictures/generated_images` folder
+1. INSTALL DALLE43: `pip install -U dalle43`
 
-Enjoy! <3
 
-![Screenshot from 2023-03-20 02-32-00](https://user-images.githubusercontent.com/114559605/226227527-6a9eb333-ebea-44bf-88b7-d945022d74ae.png)
+2. GENERATE AN IMAGE
+
+`import dalle43.dalle43 as DALL_E`
+
+`DALL_E.show_img('the milky way')`
+
+
+
+3. Enjoy! :heart:
+
+
 ![Screenshot from 2023-03-20 02-32-03](https://user-images.githubusercontent.com/114559605/226227544-66d2e956-8bd6-43d5-8397-41e720674b7a.png)
