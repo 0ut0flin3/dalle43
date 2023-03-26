@@ -1,6 +1,6 @@
 import setuptools
 setuptools.setup(name='dalle43',
-    version='0.0.0.5',
+    version='0.0.0.6',
     author='0ut0flin3',
     description='Use OpenAI DALL-E for free, unlimited and without politically correct restrictions',
     packages=setuptools.find_packages(),

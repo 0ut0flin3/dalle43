@@ -7,13 +7,22 @@
 1. INSTALL DALLE43: `pip install -U dalle43`
 
 
-2. GENERATE AN IMAGE
+2. GENERATE AN IMAGE 
 
-`import dalle43.dalle43 as DALL_E`
+```python
+import dalle43.dalle43 as DALL_E
 
-`DALL_E.show_img('the milky way')`
+DALL_E.generate('the milky way') # returns the image path, e.g. 'C:\\Users\\0ut0flin3\\Pictures\\generated_images\\892348097.jpg'  
 
+```
 
+You can also use show() to show the image:
+
+```python
+img = DALL_E.generate('the milky way') # returns the image path, e.g. 'C:\\Users\\0ut0flin3\\Pictures\\generated_images\\892348097.jpg'  
+
+DALL_E.show(img)
+```
 
 3. Enjoy! :heart:
 
