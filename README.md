@@ -19,6 +19,8 @@ DALL_E.generate('the milky way') # returns the image path, e.g. 'C:\\Users\\0ut0
 You can also use show() to show the image:
 
 ```python
+import dalle43.dalle43 as DALL_E
+
 img = DALL_E.generate('the milky way') # returns the image path, e.g. 'C:\\Users\\0ut0flin3\\Pictures\\generated_images\\892348097.jpg'  
 
 DALL_E.show(img)
